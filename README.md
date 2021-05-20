@@ -4,7 +4,8 @@ This repo serves as a template to create a Dash board for data visualisation
 
 The dash board should dynamically display charts as shown below:
 
-![1](https://user-images.githubusercontent.com/70529335/119018949-3f854700-b9cf-11eb-858f-d717d7f99182.JPG)
+![1](https://user-images.githubusercontent.com/70529335/119025851-208ab300-b9d7-11eb-8725-0ad1330dae7e.JPG)
 Sample 1
-![2](https://user-images.githubusercontent.com/70529335/119018954-41e7a100-b9cf-11eb-9185-a3f2c4dd432c.JPG)
+
+![2](https://user-images.githubusercontent.com/70529335/119025876-25e7fd80-b9d7-11eb-853c-4a1cf7ded557.JPG)
 Sample 2
